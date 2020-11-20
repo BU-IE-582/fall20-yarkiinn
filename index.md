@@ -5,7 +5,7 @@ fall20-yarkiinn created by GitHub Classroom
 ## Homeworks
 
 ## Homework 0
-[Examples](https://bu-ie-582.github.io/fall20-yarkiinn/files/Example_HW0)  Summary of 5 interesting examples of artificial intelligence.
+[Here](https://bu-ie-582.github.io/fall20-yarkiinn/files/Example_HW0)  Summary of 5 interesting examples of artificial intelligence.
 
 
 
