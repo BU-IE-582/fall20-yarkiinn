@@ -4,11 +4,12 @@ fall20-yarkiinn created by GitHub Classroom
 
 ## Homeworks
 
+## Homework 0
+
+
+
 ## Homework 1
-
-
-
-## Homework 2
+[Here](https://bu-ie-582.github.io/fall20-yarkiinn/files/Homework_1.html): Analysis of English Premier League data
 
 
 
