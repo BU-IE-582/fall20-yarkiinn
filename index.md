@@ -15,7 +15,7 @@ fall20-yarkiinn created by GitHub Classroom
 
 
 ## Homework 2
-[Here](https://bu-ie-582.github.io/fall20-yarkiinn/files/Homework2.html) Dimensionality Reduction for Time Series
+[Here](https://bu-ie-582.github.io/fall20-yarkiinn/files/Homework2.html)  Dimensionality Reduction for Time Series
 
 
 
