@@ -18,5 +18,6 @@ fall20-yarkiinn created by GitHub Classroom
 [Here](https://bu-ie-582.github.io/fall20-yarkiinn/files/Homework2.html) Dimensionality Reduction for Time Series
 
 
-
+## Homework 3
+[Here](https://bu-ie-582.github.io/fall20-yarkiinn/files/Homework3.html) Regression Approaches on Hourly Energy Consumption Data
 
