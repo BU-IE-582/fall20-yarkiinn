@@ -28,4 +28,4 @@ fall20-yarkiinn created by GitHub Classroom
 [Here](https://bu-ie-582.github.io/fall20-yarkiinn/files/Homework4.html) Applying Penalized Regression, Decision Tree, Random Forest and Sthocatic Gradient Boosting to 4 Different Machine Learning Problems
 
 ## Final
-[Here](https://bu-ie-582.github.io/fall20-yarkiinn/files/IE582FinalGörkemYarkınErdoğan.html) Final Exam
+[Here](https://bu-ie-582.github.io/fall20-yarkiinn/files/IE582FinalGörkemYarkınErdoğan.html) Final Exam 
